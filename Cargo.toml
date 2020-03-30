@@ -1,0 +1,8 @@
+[package]
+name = "msm"
+version = "0.1.0"
+authors = ["Buzzb0mb"]
+edition = "2018"
+
+[dependencies]
+nom = "5"
